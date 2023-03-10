@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder><name>Coverage of Valor HS 5W Handheld 90% 50km VHRes</name>
+<GroundOverlay><name>Coverage</name>
+<description>462.625 MHz | 
+47.75 W ERPI | 
+165.69 dB System Gain</description>
+<color>88ffffff</color><Icon><href>RM8B72B3BA6970_0.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 39.99051</north>
+<south> 39.09118</south>
+<east>-104.3631</east>
+<west>-105.5293</west>
+</LatLonBox></GroundOverlay>
+<Placemark><name>Valor Christian HS</name>
+<Point><coordinates>-104.94618872, 39.54084475,0
+</coordinates></Point></Placemark></Folder></kml>
